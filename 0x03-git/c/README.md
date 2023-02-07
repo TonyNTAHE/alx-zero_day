@@ -1,1 +1,1 @@
-New directory called "c"
+New directory
