@@ -1,2 +1,1 @@
-New directory  called 0x03-git
-
+New Directory
